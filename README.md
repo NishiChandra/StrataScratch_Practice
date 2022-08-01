@@ -1,0 +1,2 @@
+# StrataScratch_Practice
+Practicing StrataScratch Questions
